@@ -1,0 +1,78 @@
+/* TUDO - Resetar os estilos */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+   font-family:'Montserrat', sans-serif;  /* troca a fonte */
+   background-color: #f2f5f9;  /* muda a cor de fundo */
+   color: #22304a;  /* muda a cor do texto */
+   max-width: 520px;  /* define a largura máxima */
+   margin: 0 auto;  /* define a margem automática */
+   padding: 24px;  /* define o espaçamento interno */
+}
+
+h1 {
+    text-align: center; /* alinha texto ao centro */
+}
+
+.topo {
+    color: #6b7a94;
+    text-align: center;  /* alinha texto ao centro */
+    margin: 16px;  /* distância os itens */
+}
+
+.caixa-total {
+    background-color: #0f766e;   /* troca cor de fundo */
+    color: #ffffff;  /* troca cor do texto */
+    padding: 24px;  /* define o espaçamento interno */
+    text-align: center;  /* centraliza o texto */
+    border-radius: 18px;  /* define o arredondamento das bordas */
+}
+
+.total-gasto {
+    font-size: 42px; /* Tamanho da fonte */
+    font-weight: bold; /* "Peso" da fonte / Negrito */
+    margin: 12px;  /* distância os itens */
+}
+
+label {
+    background-color: #ffffff;  /* troca cor de fundo */
+    border-radius: 16px;  /* define o arredondamento das bordas */
+    padding: 28px;  /* define o espaçamento interno */
+    text-align: center;  /* alinha texto ao centro */
+    font-weight: bold;  /* "Peso" da fonte / Negrito */
+    border: 4px dashed #c3cfe0;
+    display: block;  /* o item ocupe uma linha só dele */
+    margin: 16px;  /* distância os itens */
+    cursor: pointer;  /* muda o cursor do mouse - mãozinha */
+}
+
+input {
+    display: none;  /* esconde o input */
+}
+
+.comprovante { 
+  background-color: #ffffff; /* cor de fundo branca */
+  border-radius: 14px; /* deixa os cantos arredondados */
+  padding: 16px; /* espaço entre a borda e o conteúdo */
+  margin-bottom: 12px; /* espaço embaixo de cada caixa */
+}
+
+.itens { 
+  white-space: pre-line; /* respeita as quebras de linha do <br> */
+  font-size: 15px; /* tamanho do texto */
+  line-height: 1.8; /* espaço entre uma linha e outra */
+  color: #4a5b78; /* cor do texto */
+}
+
+.total-nota { 
+  display: flex; /* coloca um item ao lado do outro */
+  justify-content: space-between; /* empurra um para a esquerda e outro para a direita */
+  border-top: 1px dashed #d6dee9; /* linha pontilhada em cima */
+  padding-top: 12px; /* espaço acima do conteúdo */
+  margin-top: 12px; /* espaço acima da linha inteira */
+  font-size: 15px; /* tamanho do texto */
+  color: #6b7a94; /* cor do texto */
+}
