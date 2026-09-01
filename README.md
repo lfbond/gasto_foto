@@ -39,8 +39,8 @@ O processamento acontece neste fluxo:
 <img width="943" height="777" alt="Img-01" src="https://github.com/user-attachments/assets/507b7678-d785-4f38-84b6-75c492758bcf" />
 <img width="1333" height="739" alt="Img-02" src="https://github.com/user-attachments/assets/4fef5e42-4c00-4db3-be9d-a04337f361fe" />
 <img width="913" height="802" alt="Img-03" src="https://github.com/user-attachments/assets/be22fa4a-a477-4963-89b8-87c9371aa80b" />
-<img width="1068" height="883" alt="Img-05" src="https://github.com/user-attachments/assets/939426a3-9ca0-4673-8090-e6d82f775f96" />
 <img width="1211" height="736" alt="Img-04" src="https://github.com/user-attachments/assets/ab934ba5-58a4-4c09-9162-4c727d6c6c7c" />
+<img width="1068" height="883" alt="Img-05" src="https://github.com/user-attachments/assets/939426a3-9ca0-4673-8090-e6d82f775f96" />
 
 
 ---
