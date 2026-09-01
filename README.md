@@ -148,4 +148,4 @@ Controla a aparência da aplicação, incluindo o resumo em verde, o seletor de 
 
 ## Licença
 
-Nenhuma licença foi definida neste repositório. Consulte o proprietário do projeto antes de redistribuir ou utilizar o código em um produto.
+Licença Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
